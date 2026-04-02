@@ -1,3 +1,9 @@
+/**
+ * Oregon Business Data Project
+ * Pulls and processes public business entity data from Oregon API
+ * and structures it into Google Sheets for analysis.
+ */
+
 /************ CONFIG ************/
 const SHEET_NAME = "Properties";
 const API_BASE   = "https://data.oregon.gov/resource/tckn-sxa6.json";
